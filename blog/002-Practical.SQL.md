@@ -13,7 +13,7 @@ import practicalSql from './images/practical-sql.jpg';
 
 ## 推荐理由
 
-本书在亚马逊和 Goodreads 上分别获得了 4.7 和 4.3 的高分，深受读者好评。值得一提的是，在众多好评中，鲜有低分评价。仅有少数读者给出了 4 分或 3 分的评价，其中一人认为本书过于冗长，而另一人因未能成功安装 PostgreSQL 而给出了较低的分数。
+本书在亚马逊和 Goodreads 上分别获得了 4.7 和 4.3 的高分，深受读者好评。值得一提的是，在众多评论中，鲜有低分评价。仅有很少读者给出了 4 分或 3 分的评价，其中一人认为本书过于冗长，而另一人因未能成功安装 PostgreSQL 而给出了较低的分数。
 
 本书以 PostgreSQL 为例进行讲解，但即使您使用的是其他数据库，也无需担忧。除了部分语法差异外，本书的大部分内容均基于标准 SQL 语言，因此适用性广泛。
 
@@ -27,20 +27,20 @@ import practicalSql from './images/practical-sql.jpg';
 
 章节概述（第二版）
 
-1：设置您的编码环境
+1：设置环境
 
 - 安装 PostgreSQL 和 pgAdmin 用户界面（Windows、macOS、Linux）
 - 选择文本编辑器
 - 从GitHub下载代码和数据
 
-2：创建您的第一个数据库和表
+2：创建第一个数据库和表
 
 - 了解关系数据库
 - 创建数据库语句
 - 创建表语句
 - 使用 INSERT 添加行
 
-3：使用 SELECT 开始数据探索（下载免费章节）
+3：使用 SELECT 开始数据探索
 
 - 选择语法
 - 使用 ORDER BY 对数据进行排序
@@ -80,7 +80,7 @@ import practicalSql from './images/practical-sql.jpg';
 - 表关系的类型
 - 集合运算符 UNION、INTERSECT、EXCEPT
 
-8：适合您的桌子设计
+8：合适的表设计
 
 - 标识符的命名约定
 - 表约束：CHECK、UNIQUE、NOT NULL
@@ -171,12 +171,12 @@ import practicalSql from './images/practical-sql.jpg';
 - 创建函数和过程
 - 使用触发器自动执行操作
 
-18：从命令行使用 PostgreSQL
+18：命令行使用 PostgreSQL
 
 - 设置命令行（Windows、macOS、Linux）
 - 使用 psql 实用程序
 - 元命令
-- 命令行实用程序createdb和shp2pgsql
+- 命令行实用程序 createdb 和 shp2pgsql
 
 19：维护数据库
 
@@ -195,6 +195,6 @@ import practicalSql from './images/practical-sql.jpg';
 
 ## 链接
 
-[亚马逊购买链接](https://www.amazon.com/Practical-SQL-2nd-Beginners-Storytelling/dp/1718501064)
+[亚马逊链接](https://www.amazon.com/Practical-SQL-2nd-Beginners-Storytelling/dp/1718501064)
 
-[Goodreads 评分链接](https://www.goodreads.com/en/book/show/34773227)
+[Goodreads 链接](https://www.goodreads.com/en/book/show/34773227)
