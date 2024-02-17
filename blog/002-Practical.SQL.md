@@ -1,7 +1,6 @@
 ---
 slug: practical-sql
 title: Practical SQL
-authors: [henry]
 date: 2024-02-16
 tags: [编程]
 ---
@@ -9,6 +8,8 @@ tags: [编程]
 import practicalSql from './images/practical-sql.jpg';
 
 <img src={practicalSql} width="280" />
+
+出版日期：2022
 
 ## 推荐理由
 
